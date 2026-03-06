@@ -26,7 +26,7 @@ The system analyzes customer behavior and financial attributes to generate **chu
 
 ---
 
-## 🔍 Methodology
+## 🔍 Methodology                 
 - Data preprocessing and feature engineering
 - Exploratory data analysis to uncover churn drivers
 - Supervised machine learning using XGBoost
