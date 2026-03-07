@@ -70,4 +70,4 @@ A dashboard screenshot and .pbix file is included in the repository.
 
 Install required libraries:
 ```bash
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn
+pip install pandas numpy scikit-learn xgboost matplotlib seaborn                                    
